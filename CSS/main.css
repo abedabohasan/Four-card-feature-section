@@ -53,7 +53,10 @@
     border-top-right-radius: 10px;
 }
 
-.cards div {
+.supervisor,
+.team-builder,
+.karma,
+.calculator {
     display: flex;
     flex-direction: column;
     background-color: white;
